@@ -22,21 +22,7 @@
 
 
 
-<!-- GitHub Stats yonma-yon -->
-<h2 align="center">📊 Statistika & 📚 Eng ko‘p ishlatilgan tillar</h2>
-<table align="center">
-  <tr>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dostonadxamov&show_icons=true"/>
-        <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=dostonadxamov&show_icons=true"/>
-      </picture>
-    </td>
-    <td align="center">
-      <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dostonadxamov&layout=compact&theme=radical"/>
-    </td>
-  </tr>
-</table>
+
 
 <!-- Kontaktlar -->
 <h2 align="center">🤝 Menga boglanishingiz  mumkin</h2>
